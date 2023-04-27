@@ -1,6 +1,6 @@
 # C++ fundamentals course
 
-* [**comments**](./comments)
+## * [**comments**](./comments)
 
     - // comment
     - /* 
@@ -8,7 +8,7 @@
       */
     - /* comment */
 
-* [**Variables Basic Knowledge**](./variables_basic_knowledge) 
+## * [**Variables Basic Knowledge**](./variables_basic_knowledge) 
 
 	* Data Container With Unique Name "Identifier"
 	* Declare With Value + Change Later
@@ -17,7 +17,7 @@
 
 	  * [Data_Type] [Variable_Name] = [Value]
 
-* [**variables_naming_rules**](./variables_naming_rules)
+## * [**variables_naming_rules**](./variables_naming_rules)
 
 
 	* Naming Rules
