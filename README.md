@@ -1,13 +1,13 @@
 C++ fundamentals course
 
-*comments* 
+**comments** 
 	- // comment
 	- /* 
 	     comment
 	  */
 	-/* comment */
 
-*Variables Basic Knowledge* 
+**Variables Basic Knowledge** 
 	
 	- Data Container With Unique Name "Identifier"
 	- Declare With Value + Change Later
