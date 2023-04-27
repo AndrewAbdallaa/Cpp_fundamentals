@@ -14,20 +14,20 @@
 	- Declare With Value + Change Later
 	
 	Syntax
-		- [Data_Type] [Variable_Name] = [Value]
+	- [Data_Type] [Variable_Name] = [Value]
 
 * [**variables_naming_rules**](./variables_naming_rules)
 
 	Variables Naming Rule
 
-		- Naming Rules
-			* Must Be Unique
-			* Case Sensitive
-			* Cannot Start With Numbers
-			* Nums Or Letters Or Underscore
-			* No White Space Or Special Characters
-			* Reserved Keywords "Class, Public"
+	- Naming Rules
+	* Must Be Unique
+	* Case Sensitive
+	* Cannot Start With Numbers
+	* Nums Or Letters Or Underscore
+	* No White Space Or Special Characters
+	* Reserved Keywords "Class, Public"
 
-		- Best Practices
-			* Related Names
-			* Writing Style
+	- Best Practices
+	* Related Names
+	* Writing Style
