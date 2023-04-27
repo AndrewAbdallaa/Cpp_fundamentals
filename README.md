@@ -2,11 +2,11 @@
 
 * [**comments**](./comments) 
 	
-	- // comment
-	- /* 
+	  * // comment
+	  * /* 
 	     comment
-	  */
-	- /* comment */
+	    */
+	  * /* comment */
 
 * [**Variables Basic Knowledge**](./variables_basic_knowledge) 
 	
