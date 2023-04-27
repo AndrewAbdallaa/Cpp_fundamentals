@@ -13,12 +13,11 @@
 	- Data Container With Unique Name "Identifier"
 	- Declare With Value + Change Later
 	
-	* Syntax
+	Syntax
 	  * [Data_Type] [Variable_Name] = [Value]
 
 * [**variables_naming_rules**](./variables_naming_rules)
 
-	Variables Naming Rule
 
 	* Naming Rules
 	  * Must Be Unique
