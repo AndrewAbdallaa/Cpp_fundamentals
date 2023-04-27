@@ -10,10 +10,10 @@
 
 * [**Variables Basic Knowledge**](./variables_basic_knowledge) 
 	
-	- Data Container With Unique Name "Identifier"
-	- Declare With Value + Change Later
+	* Data Container With Unique Name "Identifier"
+	* Declare With Value + Change Later
 	
-	Syntax
+	* **Syntax**
 
 	  * [Data_Type] [Variable_Name] = [Value]
 
