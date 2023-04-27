@@ -13,9 +13,9 @@
 	- Data Container With Unique Name "Identifier"
 	- Declare With Value + Change Later
 	
-	Syntax
+	Syntax.
 
-	  * [Data_Type] [Variable_Name] = [Value]
+	  * [Data_Type] [Variable_Name] = [Value].
 
 * [**variables_naming_rules**](./variables_naming_rules)
 
