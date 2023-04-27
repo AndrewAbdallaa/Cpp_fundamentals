@@ -14,6 +14,7 @@
 	- Declare With Value + Change Later
 	
 	Syntax
+
 	  * [Data_Type] [Variable_Name] = [Value]
 
 * [**variables_naming_rules**](./variables_naming_rules)
