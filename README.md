@@ -19,7 +19,7 @@
 
   * [Data_Type] [Variable_Name] = [Value]
 
-##  [**variables_naming_rules**](./variables_naming_rules)
+##  [**variables naming rules**](./variables_naming_rules)
 
 
 * Naming Rules
@@ -33,4 +33,7 @@
 * Best Practices
   * Related Names
   * Writing Style
+
+## [**variables advanced knowledge**](./variables_advanced_knowledge)
+
 
