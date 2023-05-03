@@ -1,0 +1,12 @@
+  --- Special Non Printing Characters
+  --- Control Printing Behaviour
+  --- Start With Back Slash "\"
+  --- Can Be Inserted In Any Position
+  - \n
+  - \\
+  - \"
+  - \'
+  - \t => Tab Equal 8 Spaces
+  - \b
+  - \a => Alert => Play Beep During Execution
+  - \r => Carriage Return
