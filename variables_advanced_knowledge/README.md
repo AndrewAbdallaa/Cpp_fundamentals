@@ -1,0 +1,3 @@
+  - Declare Variable Without Value + Change Later
+  - Declare Multiple Variables Without Value + Change Later
+  - Declare Multiple Variables With Same Value
