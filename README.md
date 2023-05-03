@@ -41,3 +41,10 @@
 * Global Variable  ==> before the main function
 * Local Variable   ==> in the function
 
+## [**variables constant**](./variables_constant)
+
+* Read Only Value
+* Can't Declare Without Value
+* assign  ==> 
+	* Syntax: [#define] [variable_name] [value]
+
