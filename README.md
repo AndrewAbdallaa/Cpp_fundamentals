@@ -36,4 +36,8 @@
 
 ## [**variables advanced knowledge**](./variables_advanced_knowledge)
 
+## [**variables scope**](./variables_scope)
+
+* Global Variable  ==> before the main function
+* Local Variable   ==> in the function
 
