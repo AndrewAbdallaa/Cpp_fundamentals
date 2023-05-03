@@ -53,7 +53,7 @@
 
 * Special Non Printing Characters
 * Control Printing Behaviour
-* Start With Back Slash "\"
+* Start With Back Slash \\
 * Can Be Inserted In Any Position
   - \n
   - \\
