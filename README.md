@@ -108,4 +108,5 @@
   * Restrict Type Of Data To The Type We Choosed
 
   ** Declare Variable Without Type
+
   ** See Memory Address &
