@@ -107,12 +107,5 @@
   * Tell Computer That We Need To Reserve X Bytes Of Memory Depend On Data Type
   * Restrict Type Of Data To The Type We Choosed
 
-  * Declare Variable Without Type
-  * See Memory Address &
-
-* Application To Create
-  * Create App Ask You To Type Number Of Kilobytes
-  * Write 3 Lines Contains
-  * [1] The Number Of Kilobytes That User Input
-  * [2] The Number Of Bytes
-  * [3] The Number Of Bits
+  ** Declare Variable Without Type
+  ** See Memory Address &
