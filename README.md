@@ -66,7 +66,7 @@
 
 ## [**Data types - What is data**](./data_types-what_is_data)
 
-
+* :
     * Integer => 5000, 10, -100
     * String => "Elzero Web School", "Osama Elzero", "100A"
     * Boolean => true, false
