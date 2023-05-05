@@ -137,3 +137,12 @@
   * double => Double The Float
   * 15 Decimal Precision
 
+## [**Data types - Char and ASCII value**](./data_types-char_and_ASCII_value)
+
+* :
+  * char => Character
+  * Added Inside Single Quotes => Test With Auto
+  * ASCII Value
+  * ASCII => American Standard Code for Information Interchange.
+  * A Way of Representing Characters As Numbers
+
