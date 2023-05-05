@@ -123,3 +123,17 @@
    * Test Size Of Data Types Without Variables & Use End Line
 
    * = Assignment Operator
+
+## [**Data types - Float and Double**](./data_types-float_and_double)
+
+* :
+  * float => Floating Point Number
+  * Test Integer Value In Float Variable
+  * We Make Sure Its Float Not Double By Adding Suffix "f" Or "F"
+  * Test With Auto
+  * 7 Decimal Precision
+
+* :
+  * double => Double The Float
+  * 15 Decimal Precision
+
