@@ -230,7 +230,13 @@
 
 * == Equal
 * != Not Equal
-* > Greater Than
+* -> Greater Than
 * < Less Than
-* >= Greater Than Or Equal
+* ->= Greater Than Or Equal
 * <= Less Than Or Equal
+
+## [**Operators - Logical operators**](./operators-logical_operators)
+
+* && And
+* || Or
+* ! Not
