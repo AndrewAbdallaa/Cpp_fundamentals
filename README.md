@@ -246,3 +246,11 @@
 * :
   * Bitwise Operators
   * Spaceship Operator
+
+## [**Control flow - if condition introduction**](./control_flow-if_condition_introduction)
+
+* Syntax
+    if (Condition Is True)
+    {
+      // Do Something
+    }
