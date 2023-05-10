@@ -226,3 +226,11 @@
   * Pre/Post Increment
   * Pre/Post Decrement
 
+## [**Operators - Comparison operators**](./operators-comparison_operators)
+
+* == Equal
+* != Not Equal
+* > Greater Than
+* < Less Than
+* >= Greater Than Or Equal
+* <= Less Than Or Equal
