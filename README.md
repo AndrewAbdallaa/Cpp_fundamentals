@@ -240,3 +240,9 @@
 * && And
 * || Or
 * ! Not
+
+## [**Operators - Precedence**](./operators-precedence)
+
+* :
+  * Bitwise Operators
+  * Spaceship Operator
