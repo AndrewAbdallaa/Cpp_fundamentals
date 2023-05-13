@@ -259,3 +259,7 @@
 
 ## [**Control flow - nested if condition**](./control_flow-nested_if)
 
+## [**Control flow - Ternary conditional operator**](./control_flow-ternary_conditional_operator)
+
+* Syntax:
+    * (condition) ? true : false;
