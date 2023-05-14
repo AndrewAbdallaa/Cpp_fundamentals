@@ -14,11 +14,11 @@ int main()
   {
     if (points >= 500)
     {
-      cout << "OK Because Of Points\n";
+      cout << "OK Because Of the Points\n";
     }
     else
     {
-      cout << "No Age Or Points\n";
+      cout << "No Age Or Points achived\n";
     }
   }
 
