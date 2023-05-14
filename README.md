@@ -263,3 +263,5 @@
 
 * Syntax:
     * (condition) ? true : false;
+
+## [**Control flow - Nested ternary operator**](./control_flow-nested_ternary%20operator/)
