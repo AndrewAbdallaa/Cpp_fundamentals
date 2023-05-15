@@ -268,3 +268,8 @@
 
 
 ## [**Condition trainings - Create four applications**](./condition_trainings-create_four_application)
+
+* Even / Odd Checker
+* Find Greatest Number
+* User Rank Checker
+* Simple Calculator
