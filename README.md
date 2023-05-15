@@ -265,3 +265,6 @@
     * (condition) ? true : false;
 
 ## [**Control flow - Nested ternary operator**](./control_flow-nested_ternary%20operator/)
+
+
+## [**Condition trainings - Create four applications**](./condition_trainings-create_four_application)
