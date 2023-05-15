@@ -13,6 +13,26 @@ int main()
   else
     cout << "The Number " << num << " Is Odd\n";
     
-    return 0;
 
+    // App 2 => Find Greatest Number
+
+  int a, b, c;
+  cin >> a >> b >> c;
+
+  if (a > b && a > c)
+  {
+    cout << a << " Is The Greatest Number\n";
+  }
+  else if (b > a && b > c)
+  {
+    cout << b << " Is The Greatest Number\n";
+  }
+  else
+  {
+    cout << c << " Is The Greatest Number\n";
+  }
+
+    return 0;
 }
+
+
