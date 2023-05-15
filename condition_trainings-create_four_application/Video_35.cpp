@@ -32,6 +32,24 @@ int main()
     cout << c << " Is The Greatest Number\n";
   }
 
+  // App 3 => User Rank Checker
+
+  int points;
+  cin >> points;
+
+  if (points > 0 && points <= 500)
+  {
+    cout << "Not Bad\n";
+  }
+  else if (points > 500 && points <= 1000)
+  {
+    cout << "Very Good\n";
+  }
+  else
+  {
+    cout << "VIP\n";
+  }
+
     return 0;
 }
 
