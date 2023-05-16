@@ -277,13 +277,13 @@
 ## [**Control flow - Switch, Case**](./control_flow-switch_case/)
 
 * Syntax:
-  * switch([condition])
-    case [x]:  
-      [// code block]  
-    break;  
-    case [y]:  
-      [// code block]  
-    break;  
-    default:  
-      [// code block]  
+  * switch([condition]) <br>
+    &nbsp case [x]: <br>
+      [// code block] <br>
+    break; <br>
+    case [y]: <br>
+      [// code block] <br>
+    break; <br>
+    default: <br>
+      [// code block] <br>
 
