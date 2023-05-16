@@ -274,4 +274,16 @@
 * User Rank Checker
 * Simple Calculator
 
-## [**Control flow - Switch, Case**]
+## [**Control flow - Switch, Case**](./control_flow-switch_case/)
+
+* Syntax:
+  * switch([condition])
+    case [x]:
+      [// code block]
+    break;
+    case [y]:
+      [// code block]
+    break;
+    default:
+      [// code block]
+
