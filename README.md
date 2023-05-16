@@ -279,7 +279,7 @@
 * Syntax:
   * switch([condition]) <br>
     &nbsp; case [x]: <br>
-      [// code block] <br>
+        [// code block] <br>
     break; <br>
     case [y]: <br>
       [// code block] <br>
