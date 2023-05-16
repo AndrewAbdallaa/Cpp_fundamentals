@@ -278,12 +278,12 @@
 
 * Syntax:
   * switch([condition])
-    case [x]:
-      [// code block]
-    break;
-    case [y]:
-      [// code block]
-    break;
-    default:
-      [// code block]
+    case [x]:__
+      [// code block]__
+    break;__
+    case [y]:__
+      [// code block]__
+    break;__
+    default:__
+      [// code block]__
 
