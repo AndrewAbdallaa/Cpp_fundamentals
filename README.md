@@ -273,3 +273,5 @@
 * Find Greatest Number
 * User Rank Checker
 * Simple Calculator
+
+## [**Control flow - Switch, Case**]
