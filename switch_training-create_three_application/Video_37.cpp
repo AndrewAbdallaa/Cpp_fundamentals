@@ -54,7 +54,7 @@ int main()
 
     // App 3 => Simple Calculator
 
-    int n1, n2, op;
+    int n1, n2, op, num_one, num_two;
     cout << "Type Number One\n";
     cin >> n1;
     cout << "Type Number Two\n";
@@ -65,5 +65,27 @@ int main()
     cout << "[3] /\n";
     cout << "[4] *\n";
     cin >> op;
+
+    if (op == 1)  // with if condition 
+    {
+        cout << num_one + num_two << "\n";
+    }
+    else if (op == 2)
+    {
+        cout << num_one - num_two << "\n";
+    }
+    else if (op == 3)
+    {
+        cout << num_one / num_two << "\n";
+    }
+    else if (op == 4)
+    {
+        cout << num_one * num_two << "\n";
+    }
+    else
+    {
+        cout << "Operation Is Not Valid\n";
+    }
+
     return 0;
 }
