@@ -287,3 +287,4 @@
     &nbsp; default: <br>
     &nbsp; &nbsp; &nbsp; [// code block] <br>
 
+## [**Switch training - Create three application**]
