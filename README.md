@@ -287,4 +287,8 @@
     &nbsp; default: <br>
     &nbsp; &nbsp; &nbsp; [// code block] <br>
 
-## [**Switch training - Create three application**]
+## [**Switch training - Create three application**](./switch_training-create_three_application)
+
+* Award Systrm application
+* Discount application
+* Simple calculator application
