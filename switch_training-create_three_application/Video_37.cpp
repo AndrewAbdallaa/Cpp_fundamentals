@@ -54,16 +54,16 @@ int main()
 
     // App 3 => Simple Calculator
 
-  int n1, n2, op;
-  cout << "Type Number One\n";
-  cin >> n1;
-  cout << "Type Number Two\n";
-  cin >> n2;
-  cout << "Choose Operation Number\n";
-  cout << "[1] +\n";
-  cout << "[2] -\n";
-  cout << "[3] /\n";
-  cout << "[4] *\n";
-  cin >> op;
+    int n1, n2, op;
+    cout << "Type Number One\n";
+    cin >> n1;
+    cout << "Type Number Two\n";
+    cin >> n2;
+    cout << "Choose Operation Number\n";
+    cout << "[1] +\n";
+    cout << "[2] -\n";
+    cout << "[3] /\n";
+    cout << "[4] *\n";
+    cin >> op;
     return 0;
 }
