@@ -87,5 +87,23 @@ int main()
         cout << "Operation Is Not Valid\n";
     }
 
+    switch (op)  // with switch
+    {
+    case 1:
+        cout << n1 << " + " << n2 << " = " << n1 + n2 << "\n";
+        break;
+    case 2:
+        cout << n1 << " - " << n2 << " = " << n1 - n2 << "\n";
+        break;
+    case 3:
+        cout << n1 << " / " << n2 << " = " << n1 / n2 << "\n";
+        break;
+    case 4:
+        cout << n1 << " * " << n2 << " = " << n1 * n2 << "\n";
+        break;
+    default:
+        cout << "Operation Is Not Valid\n";
+    }
+
     return 0;
 }
