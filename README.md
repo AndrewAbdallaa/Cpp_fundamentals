@@ -293,4 +293,8 @@
 * Discount application
 * Simple calculator application
 
-## [**Array - What is array**]()
+## [**Array - What is array**](./array_what_is_array)
+
+* Collection Of Elements Of The Same Type
+* Placed in Contiguous Memory Locations
+* Referenced By Index Started From 0
