@@ -303,4 +303,4 @@
 ## [**Array - Access elements & Memory location**](./array-access_elements_%26_memory_location)
 
 * syntax:
-    * [data type] (name[]) = [{array}]
+    * [// data type] ( name[ ] ) = [ {array} ]
