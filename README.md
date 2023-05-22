@@ -300,4 +300,7 @@
 * Referenced By Index Started From 0
 
 
-## [**Array - Access elements & Memory location**]()
+## [**Array - Access elements & Memory location**](./array-access_elements_%26_memory_location)
+
+* syntax:
+    * [data type] (name[]) = [{array}]
