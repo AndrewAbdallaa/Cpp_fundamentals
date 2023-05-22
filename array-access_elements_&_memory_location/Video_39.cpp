@@ -7,4 +7,10 @@ int main()
 
     cout << "First Element: " << nums[0] << "\n";
     cout << "Last Element: " << nums[2] << "\n"; // Number Of Elements - 1
+
+    // cout << "Location: " << &#038;nums[0] << "\n";
+    // cout << "Location: " << &#038;nums[1] << "\n";
+    // cout << "Location: " << &#038;nums[2] << "\n";
+
+    return 0;
 }
