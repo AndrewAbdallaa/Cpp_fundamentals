@@ -298,3 +298,6 @@
 * Collection Of Elements Of The Same Type
 * Placed in Contiguous Memory Locations
 * Referenced By Index Started From 0
+
+
+## [**Array - Access elements & Memory location**]()
